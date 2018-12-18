@@ -1,0 +1,25 @@
+{
+  "name": "pex_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PexFrontEnd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caylenepicache/pex_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caylenepicache/pex_frontend/issues"
+  },
+  "homepage": "https://github.com/caylenepicache/pex_frontend#readme",
+  "keywords": [],
+  "dependencies": {
+    "assert": "^1.4.1",
+    "immutable": "^4.0.0-rc.12",
+    "npm": "^6.5.0"
+  }
+}
